@@ -1,0 +1,4 @@
+pip install https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.2/imageai-2.0.2-py3-none-any.whl
+
+For full reference:
+https://medium.com/@guymodscientist/image-prediction-with-10-lines-of-code-3266f4039c7a
